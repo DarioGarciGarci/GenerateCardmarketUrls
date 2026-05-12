@@ -40,3 +40,4 @@ build/
 
 ### PERSO ###
 cardmarket-urls.txt
+src/main/java/org/updateUrls/config/AppConfig.java
